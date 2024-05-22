@@ -1,5 +1,3 @@
 ### Hello there 👋
 
-#### A Python Developer by day ☼ 
-
-- ⚙️ Work with Python, JavaScript
+#### ⚙️ JS/Python Developer ⚙️
